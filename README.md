@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 RAVI KIRAN:
 👋 About Me<br><br>🚀 AI/ML & Data Science enthusiast passionate about building real-world, production-ready projects.<br>🧠 Working on Machine Learning, anomaly detection, phishing & fraud systems, and data-driven web applications.<br>🤝 Open to collaborating on ML, Data Science, and full-stack AI products.<br>🌱 Currently learning MLOps, scalable ML deployment, and advanced analytics pipelines.<br>💬 Ask me about Python, Machine Learning, Deep Learning, SQL, Power BI, or building end-to-end AI systems.<br>⚡ Fun fact: I enjoy converting raw ideas into complete products — from models to dashboards.
 
 
